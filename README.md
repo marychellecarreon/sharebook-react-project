@@ -8,6 +8,13 @@
 | Dea Lorenzo | [deazee101](https://github.com/deazee101) |
 | Mary Chelle Carreon | [marychellecarreon](https://github.com/marychellecarreon) |
 
+## TABLE OF CONTENTS
+ - [Project Overview](#project-overview)
+     - [Societal Concern](#societal-concern)
+     - [Impact](#impact)
+     - [Statistics](#statistics)
+     - [Our Suggestions](#our-suggestions)
+     - [Scope and Limitations](#scope-and-limitations)
 
 ## PROJECT OVERVIEW
   During the last term, we were tasked to make an app using React and Node that would help address the society's main concerns. We called our app SHAREBOOK, which stemmed from the word "share" and "book" because this app is all about sharing books that can still be used by other people. This features the ability to post books, specific genres, title, authors and number of pieces.
@@ -24,7 +31,7 @@
 ## Statistics
 ![stats](https://user-images.githubusercontent.com/26729817/31423349-e6a088c2-ae86-11e7-97b0-46f78f751d8c.png)
 
-## Suggestions
+## Our Suggestions
   Education of the youth should be of primary importance since they are the next generation. As concerned citizens, we believe that an initiative to help would be of great help. Thus this concept was created, called the sharebook. It is an app that allows people to post their unwanted or semi-used books and then it would be given free to the receiver.
 
 ## Scope and limitations:
