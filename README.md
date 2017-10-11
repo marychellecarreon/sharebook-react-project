@@ -16,6 +16,11 @@
      - [Proposed Solution](#proposed-solution)
      - [Scope and Limitations](#scope-and-limitations)
 
+- [Plans](#plans)
+     - [User Stories](#user-stories)
+     - [Entity Relationship Diagram](#entity-relationship-diagram)
+
+
 ## PROJECT OVERVIEW
   During the last term, we were tasked to make an app using React and Node that would help address the society's main concerns. We called our app SHAREBOOK, which stemmed from the word "share" and "book" because this app is all about sharing books that can still be used by other people. This features the ability to post books, specific genres, title, authors and number of pieces.
 
