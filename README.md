@@ -1,7 +1,6 @@
 # TERM 3: SHAREBOOK PROJECT IN REACT AND NODE
-<p align="center">
 ![logo2](https://user-images.githubusercontent.com/26729817/31423325-bff50112-ae86-11e7-8570-b789d015cf20.jpg)
-</p>
+
 
 ## PROJECT OVERVIEW
   During the last term, we were tasked to make an app using React and Node that would help address the society's main concerns. We called our app SHAREBOOK, which stemmed from the word "share" and "book" because this app is all about sharing books that can still be used by other people. This features the ability to post books, specific genres, title, authors and number of pieces.
