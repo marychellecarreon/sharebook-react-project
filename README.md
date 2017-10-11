@@ -1,6 +1,13 @@
 # TERM 3: SHAREBOOK PROJECT IN REACT AND NODE
 ![logo2](https://user-images.githubusercontent.com/26729817/31423325-bff50112-ae86-11e7-8570-b789d015cf20.jpg)
 
+## OUR TEAM
+| Name | GitHub |
+| --- | --- |
+| Jessie Nerona | [siegren](https://github.com/siegren) |
+| Dea Lorenzo | [deazee101](https://github.com/deazee101) |
+| Mary Chelle Carreon | [marychellecarreon](https://github.com/marychellecarreon) |
+
 
 ## PROJECT OVERVIEW
   During the last term, we were tasked to make an app using React and Node that would help address the society's main concerns. We called our app SHAREBOOK, which stemmed from the word "share" and "book" because this app is all about sharing books that can still be used by other people. This features the ability to post books, specific genres, title, authors and number of pieces.
@@ -23,7 +30,7 @@
 ## Scope and limitations:
   Right now, during the initial stage, our target is just to collect books. We wish to have a directory for the books and receivers but there is not enough time so we had to settle for the "doughnut" which is an app collecting used books up for post.
 
-## PLANS (USER STORIES
+## PLANS (USER STORIES)
   ![trello](https://user-images.githubusercontent.com/26729817/31423378-0cf264aa-ae87-11e7-92fd-fc13a61f9d7e.png)
 
 
