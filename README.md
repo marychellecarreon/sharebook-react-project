@@ -1,4 +1,4 @@
-# TERM 3: SHAREBOOK PROJECT IN REACT AND NODE
+# TERM 3: SHAREBOOK PROJECT 
 ![logo2](https://user-images.githubusercontent.com/26729817/31423325-bff50112-ae86-11e7-8570-b789d015cf20.jpg)
 
 ## OUR TEAM
@@ -19,6 +19,7 @@
 - [Plans](#plans)
      - [User Stories](#user-stories)
      - [Entity Relationship Diagram](#entity-relationship-diagram)
+     - [Wireframe](coming-soon)
 
 
 ## PROJECT OVERVIEW
