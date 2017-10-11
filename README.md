@@ -13,7 +13,7 @@
      - [Societal Concern](#societal-concern)
      - [Impact](#impact)
      - [Statistics](#statistics)
-     - [Our Suggestions](#our-suggestions)
+     - [Proposed Solution](#proposed-solution)
      - [Scope and Limitations](#scope-and-limitations)
 
 ## PROJECT OVERVIEW
@@ -31,14 +31,20 @@
 ## Statistics
 ![stats](https://user-images.githubusercontent.com/26729817/31423349-e6a088c2-ae86-11e7-97b0-46f78f751d8c.png)
 
-## Our Suggestions
+## Proposed Solution
   Education of the youth should be of primary importance since they are the next generation. As concerned citizens, we believe that an initiative to help would be of great help. Thus this concept was created, called the sharebook. It is an app that allows people to post their unwanted or semi-used books and then it would be given free to the receiver.
 
 ## Scope and limitations:
   Right now, during the initial stage, our target is just to collect books. We wish to have a directory for the books and receivers but there is not enough time so we had to settle for the "doughnut" which is an app collecting used books up for post.
 
-## PLANS (USER STORIES)
+## PLANS
+
+## User Stories (Trello)
   ![trello](https://user-images.githubusercontent.com/26729817/31423378-0cf264aa-ae87-11e7-92fd-fc13a61f9d7e.png)
+
+## ERD (Entity Relationship Diagram)
+![screen shot 2017-10-10 at 5 41 40 pm](https://user-images.githubusercontent.com/26729817/31424184-7a7df0d0-ae8b-11e7-9528-c544c27fb819.png)
+
 
 
 ## Folder Structure
